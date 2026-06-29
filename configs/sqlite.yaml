@@ -1,0 +1,4 @@
+scenarios_path: data/sample/scenarios.jsonl
+checkpointer: sqlite
+database_url: outputs/langgraph-agent.sqlite
+report_path: reports/lab_report.md
